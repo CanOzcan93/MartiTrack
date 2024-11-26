@@ -1,0 +1,6 @@
+framework module Pods_MartiTrack {
+  umbrella header "Pods-MartiTrack-umbrella.h"
+
+  export *
+  module * { export * }
+}
